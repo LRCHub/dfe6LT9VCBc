@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "三月のパンタシア 『パステルレイン』",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2025-12-26T14:58:02.556826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パステルレイン",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": false,
+      "path": "select/01_パステルレイン_Sangatsu_no_Phantasia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パステルレイン",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_パステルレイン_三月のパンタシア.txt"
+    }
+  ]
+}
